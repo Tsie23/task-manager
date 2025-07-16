@@ -66,7 +66,7 @@ Deploy your app to Vercel, Netlify, or GitHub Pages. Add your deployed URL below
 
 ## 📁 Project Structure
 ```
-my-react-app/
+docs/
 ├── public/                # Static assets
 ├── src/
 │   ├── assets/            # Images and icons
