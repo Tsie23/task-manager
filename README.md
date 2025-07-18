@@ -57,16 +57,15 @@ Click below links for application screenshots.
 
 | Task Manager | API Explorer |
 |-------------|-------------|
-| ![Task Manager Screenshot](./assets/task-manager-screenshot.png) | ![API Explorer Screenshot](./assets/api-explorer-screenshot.png) |
+| ![Task Manager Screenshot](./src/assets/task-manager-screenshot.png) | ![API Explorer Screenshot](./src/assets/api-explorer-screenshot.png) |
 
 ## 🌐 Deployment
 Deploy your app to Vercel, Netlify, or GitHub Pages. Add your deployed URL below:
 
-**Deployed URL:** [https://your-deployment-url.com](https://your-deployment-url.com)
+**Deployed URL:** [https://task-manager-99pn.vercel.app/tasks]
 
 ## 📁 Project Structure
 ```
-docs/
 ├── public/                # Static assets
 ├── src/
 │   ├── assets/            # Images and icons
